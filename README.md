@@ -2,7 +2,7 @@
 
 A powerful web application that helps business owners manage and respond to their Google Reviews in one centralized dashboard.
 
-![Dashboard Preview](public/reviews.png)
+![Dashboard Preview](frontend/public/reviews.png)
 
 ## 🚀 Features
 
@@ -49,7 +49,7 @@ Before you begin, ensure you have the following installed:
 3. **Select**: Choose your business location from the search results
 4. **Manage**: View and respond to customer reviews (Not working right now coz of paid api services)
 
-![Login Screen](public/login.png)
+![Login Screen](frontend/public/login.png)
 
 ## 🎯 Key Components
 
