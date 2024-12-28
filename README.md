@@ -3,7 +3,7 @@
 A powerful web application that helps business owners manage and respond to their Google Reviews in one centralized dashboard.
 
 
-<img src="https://cloud.appwrite.io/v1/storage/buckets/667c8d23002acab49636/files/676fed1d00008d235f1e/view?project=667c7b0f00312f83d8cb&project=667c7b0f00312f83d8cb&mode=admin" alt="project-screenshot" width="100%" height="400/">
+<img src="https://cloud.appwrite.io/v1/storage/buckets/667c8d23002acab49636/files/676fed1d00008d235f1e/view?project=667c7b0f00312f83d8cb&project=667c7b0f00312f83d8cb&mode=admin" alt="project-screenshot" width="100%" height="100%">
 
 ## 🚀 Features
 
@@ -51,7 +51,7 @@ Before you begin, ensure you have the following installed:
 4. **Manage**: View and respond to customer reviews (Not working right now coz of paid api services)
 
 ![Login Screen]
-<img src="https://cloud.appwrite.io/v1/storage/buckets/667c8d23002acab49636/files/676fed5c001093ce137b/view?project=667c7b0f00312f83d8cb&project=667c7b0f00312f83d8cb&mode=admin" alt="project-screenshot" width="100%" height="400/">
+<img src="https://cloud.appwrite.io/v1/storage/buckets/667c8d23002acab49636/files/676fed5c001093ce137b/view?project=667c7b0f00312f83d8cb&project=667c7b0f00312f83d8cb&mode=admin" alt="project-screenshot" width="100%" height="100%">
 ## 🎯 Key Components
 
 ### Dashboard
