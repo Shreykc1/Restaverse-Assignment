@@ -59,7 +59,6 @@ The main interface where users can:
 - Search for their businesses
 - View all reviews
 - Respond to customer feedback
-- Monitor review statistics
 
 ### ReviewCard
 Displays individual reviews with:
@@ -67,7 +66,6 @@ Displays individual reviews with:
 - Rating
 - Review text
 - Response functionality
-- Translation status
 
 
 ## 🔒 Authentication Flow
