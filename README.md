@@ -99,6 +99,6 @@ For support, email shreykc1@gmail.com or raise an issue in the repository.
 
 ---
 
-Made with ❤️ by Shrey Chabdpa
+Made with ❤️ by Shrey Chandpa
 `https://shreychandpa.vercel.app`
    
